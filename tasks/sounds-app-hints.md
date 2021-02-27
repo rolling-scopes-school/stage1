@@ -16,7 +16,7 @@
 ```html
 <video src="assets/video/fall.mp4" controls></video>
 ```
-Без элементов управдения
+Без элементов управления
 ```html
 <video src="assets/video/fall.mp4"></video>
 ```
